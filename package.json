@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Gustavo Barros",
   "description": "Testing with npm parameters",
+  "license": "MIT",
   "keywords": [
     "freecodecamp"
   ],
