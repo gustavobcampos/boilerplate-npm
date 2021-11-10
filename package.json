@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Gustavo Barros",
+  "description": "Testing with npm parameters",
   "dependencies": {
     "express": "^4.14.0"
   },
